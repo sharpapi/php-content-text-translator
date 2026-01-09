@@ -88,19 +88,23 @@ try {
 
 ## Example Response
 ```json
+
 {
-  "data": {
-    "type": "api_job_result",
-    "id": "job-id-here",
-    "attributes": {
-      "status": "success",
-      "type": "content_processing",
-      "result": {
-        "content": "Processed result content here..."
-      }
+    "data": {
+        "type": "api_job_result",
+        "id": "5de4887a-0dfd-49b6-8edb-9280e468c210",
+        "attributes": {
+            "status": "success",
+            "type": "content_translate",
+            "result": {
+                "content": "The rise in sea levels threatens to engulf the Maldives where fresh water is already starting to run out, but the new president of the Indian Ocean archipelago refuses any relocation of its population abroad. In an interview with AFP, President Mohamed Muizzu, a 45-year-old civil engineering graduate trained in the United Kingdom, instead promises an ambitious program of land rehabilitation and island elevation, which environmental organizations criticize.",
+                "to_language": "English",
+                "from_language": "French"
+            }
+        }
     }
-  }
 }
+
 ```
 ---
 
