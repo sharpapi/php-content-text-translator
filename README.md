@@ -16,7 +16,7 @@ Check the full documentation on the [Content Text Translator API for PHP API](ht
 | Resource | Link |
 |----------|------|
 | **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) |
-| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsVb) |
+| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsRP) |
 | **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/content-marketing-automation/advanced-text-translator) |
 | **SDK Libraries** | [GitHub - SharpAPI SDKs](https://github.com/sharpapi) |
 
